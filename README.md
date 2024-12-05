@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Levp808
 - 👀 I’m interested in backend developing
 - 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on Yandex
 - 📫 How to reach me 
     tg, vk: @ptitsynn
 <!---
